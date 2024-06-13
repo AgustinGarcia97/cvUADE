@@ -23,6 +23,7 @@ li , a {
     height: 80px;
     width: 100%;
     justify-content: space-between;
+  
     
    
     
@@ -30,6 +31,7 @@ li , a {
 .list__container{
    width: 50%;
    justify-content: end;
+   
   
 }
 .navbar__list{
@@ -109,9 +111,7 @@ footer{
     }
 
     .navbar__list li {
-       
         width:40%;
-        
         margin: 5px;
         text-align: center;
         border-top-left-radius: 0px;
